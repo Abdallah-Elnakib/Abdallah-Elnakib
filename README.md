@@ -1,106 +1,114 @@
-<h1 align="center">Hi 👋, I'm Abdallah Elnakib</h1>
-<h3 align="center">A passionate Software Engineer & Problem Solver from Egypt</h3>
+<h1 align="center">👋 Hi, I'm Abdallah Elnakib</h1>
+<h4 align="center">Passionate Software Engineer • Creative Problem Solver • Tech Enthusiast</h4>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abdallh-elnakeeb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:your.email@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Abdallah-Elnakib&style=for-the-badge" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Abdallah-Elnakib&style=flat-square" alt="profile views"/>
 </p>
 
 ---
 
-<img align="right" src="https://i.imgur.com/z5Rxq12.png" width="275" alt="Coding Man" />
+<img align="right" src="https://i.imgur.com/z5Rxq12.png" width="260" alt="Coding Man" />
 
 ## 🧑‍💻 About Me
 
 - 🏆 **Competitive programmer, open source contributor, and software enthusiast.**
 - 🚀 **Always aiming to learn, build, and share knowledge.**
 - 🤝 **I love collaborating and contributing to open source projects.**
-- 💡 **I enjoy solving complex problems and learning new technologies.**
-- 📝 **Find my projects and solutions below!**
+- 💡 **Enjoy solving complex problems and learning new technologies.**
 - 🌍 **Based in Egypt.**
 
 ---
 
-## 🏅 My Programming Languages
+## 🏅 My Most Used Programming Languages
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/><br>
-      <b>TypeScript</b><br>
-      <img src="https://progress-bar.dev/27/?title=Usage" alt="TypeScript Usage"/><br>
-      <img src="https://skillicons.dev/icons?i=typescript" height="32"/>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/><br>
-      <b>Python</b><br>
-      <img src="https://progress-bar.dev/23/?title=Usage" alt="Python Usage"/><br>
-      <img src="https://skillicons.dev/icons?i=python" height="32"/>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/><br>
-      <b>HTML</b><br>
-      <img src="https://progress-bar.dev/24/?title=Usage" alt="HTML Usage"/><br>
-      <img src="https://skillicons.dev/icons?i=html" height="32"/>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/><br>
-      <b>Jupyter Notebook</b><br>
-      <img src="https://progress-bar.dev/15/?title=Usage" alt="Jupyter Usage"/><br>
-      <img src="https://skillicons.dev/icons?i=jupyter" height="32"/>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/><br>
-      <b>JavaScript</b><br>
-      <img src="https://progress-bar.dev/9/?title=Usage" alt="JavaScript Usage"/><br>
-      <img src="https://skillicons.dev/icons?i=javascript" height="32"/>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/><br>
-      <b>CSS</b><br>
-      <img src="https://progress-bar.dev/2/?title=Usage" alt="CSS Usage"/><br>
-      <img src="https://skillicons.dev/icons?i=css" height="32"/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="130">
+        <img src="https://skillicons.dev/icons?i=typescript" width="48" />
+        <br><b>TypeScript</b>
+        <br>
+        <img src="https://img.shields.io/badge/Usage-27%25-3178c6?style=flat-square&logo=typescript&logoColor=white">
+      </td>
+      <td align="center" width="130">
+        <img src="https://skillicons.dev/icons?i=python" width="48" />
+        <br><b>Python</b>
+        <br>
+        <img src="https://img.shields.io/badge/Usage-23%25-3776ab?style=flat-square&logo=python&logoColor=white">
+      </td>
+      <td align="center" width="130">
+        <img src="https://skillicons.dev/icons?i=html" width="48" />
+        <br><b>HTML5</b>
+        <br>
+        <img src="https://img.shields.io/badge/Usage-24%25-e34f26?style=flat-square&logo=html5&logoColor=white">
+      </td>
+      <td align="center" width="130">
+        <img src="https://skillicons.dev/icons?i=notion" width="48" />
+        <br><b>Jupyter Notebook</b>
+        <br>
+        <img src="https://img.shields.io/badge/Usage-15%25-f37626?style=flat-square&logo=jupyter&logoColor=white">
+      </td>
+      <td align="center" width="130">
+        <img src="https://skillicons.dev/icons?i=javascript" width="48" />
+        <br><b>JavaScript</b>
+        <br>
+        <img src="https://img.shields.io/badge/Usage-9%25-f7df1e?style=flat-square&logo=javascript&logoColor=black">
+      </td>
+      <td align="center" width="130">
+        <img src="https://skillicons.dev/icons?i=css" width="48" />
+        <br><b>CSS3</b>
+        <br>
+        <img src="https://img.shields.io/badge/Usage-2%25-1572b6?style=flat-square&logo=css3&logoColor=white">
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-## 💻 Technologies & Tools
+## 🚀 My Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,php,java,cpp,cs,dart,flutter,mysql,mongodb,firebase,docker,linux,git,android,vscode,figma,postman"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,php,java,csharp,dart,flutter,mysql,mongodb,firebase,docker,linux,git,android,vscode,figma,postman"/>
 </p>
 
 ---
 
-## 📊 GitHub Profile Analytics
+## 📈 GitHub Stats & Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdallah-Elnakib&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdallah-Elnakib&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdallah-Elnakib&bg_color=1a1b27&color=6e93f7&line=5cacf7&point=ffffff&hide_border=true" alt="GitHub Activity Graph"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdallah-Elnakib&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="340" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdallah-Elnakib&theme=tokyonight&hide_border=true" width="340" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdallah-Elnakib&theme=tokyonight" width="700" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdallah-Elnakib&bg_color=1a1b27&color=6e93f7&line=5cacf7&point=ffffff&hide_border=true" width="700" />
+</div>
 
 ---
 
-## 🏆 Achievements & Contributions
+## 🏆 Achievements & Open Source
 
 - ⭐ **Total Stars:** ![GitHub stars](https://img.shields.io/github/stars/Abdallah-Elnakib?style=social)
 - 🍀 **Total Forks:** ![GitHub forks](https://img.shields.io/github/forks/Abdallah-Elnakib?style=social)
-- 🏅 **Total Commits (2025):** 133+
+- 🏅 **Total Commits (2025):** 134+
 - 🔥 **Most Used Language:** TypeScript
-- 🏆 **Open Source Contributions:** Multiple
+- 🏆 **Open Source Contributions:** Many projects and solutions.
 - 🌱 **Continuous Learning:** Always!
 
 ---
 
-## 🚀 Featured Projects
+## ✨ Featured Projects
 
 | Project | Description | Techs |
 |---------|-------------|-------|
@@ -115,18 +123,18 @@
 
 ---
 
-## 📈 Profile Breakdown
+## 📊 Profile Breakdown
 
-- **Total Public Repositories:** ![Repos](https://img.shields.io/badge/dynamic/json?color=blue&label=Repos&query=%24.public_repos&url=https://api.github.com/users/Abdallah-Elnakib&style=for-the-badge)
-- **Most Active Time:** ![Commit Time](https://img.shields.io/badge/active%20hours-8AM%20to%2012PM-blue?style=for-the-badge)
+- **Total Public Repositories:** ![Repos](https://img.shields.io/badge/dynamic/json?color=blue&label=Repos&query=%24.public_repos&url=https://api.github.com/users/Abdallah-Elnakib&style=flat-square)
+- **Most Active Time:** ![Commit Time](https://img.shields.io/badge/active%20hours-8AM%20to%2012PM-blue?style=flat-square)
 - **Pull Requests:** ![PRs](https://img.shields.io/badge/dynamic/json?color=purple&label=PRs&query=%24.totalPRs&url=https://api.github.com/users/Abdallah-Elnakib)
 - **Issues Opened:** ![Issues](https://img.shields.io/badge/dynamic/json?color=orange&label=Issues&query=%24.totalIssues&url=https://api.github.com/users/Abdallah-Elnakib)
 
 ---
 
-## 📝 My Blog & Articles
+## 📝 Blog & Articles
 
-> قريبًا… مقالات وشروحات وتقارير تقنية باللغة العربية والإنجليزية!
+> قريبًا… مقالات تقنية وشروحات مميزة باللغة العربية والإنجليزية!
 
 ---
 
@@ -149,8 +157,6 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Quote" />
 </p>
-
----
 
 <p align="center">
   <b>“Success is the result of preparation, hard work, and learning from failure.” 🌟</b>
